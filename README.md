@@ -145,5 +145,3 @@ This project demonstrates:
 **Requirements:** GCC Compiler, C99 or higher
 
 **File:** movie_booking.c (2000+ lines)
-
-**Author:** [Your Name]
